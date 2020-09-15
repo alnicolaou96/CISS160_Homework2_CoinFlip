@@ -1,0 +1,2 @@
+﻿I tested it by running the code every time i made a change.
+when I added the random number switch i kept pressing it to make sure the outcome was random

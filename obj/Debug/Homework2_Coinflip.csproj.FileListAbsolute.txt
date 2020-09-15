@@ -1,0 +1,10 @@
+C:\Users\alnic\source\repos\Homework2_Coinflip\bin\Debug\Homework2_Coinflip.exe.config
+C:\Users\alnic\source\repos\Homework2_Coinflip\bin\Debug\Homework2_Coinflip.exe
+C:\Users\alnic\source\repos\Homework2_Coinflip\bin\Debug\Homework2_Coinflip.pdb
+C:\Users\alnic\source\repos\Homework2_Coinflip\obj\Debug\Homework2_Coinflip.csprojAssemblyReference.cache
+C:\Users\alnic\source\repos\Homework2_Coinflip\obj\Debug\Homework2_Coinflip.Form1.resources
+C:\Users\alnic\source\repos\Homework2_Coinflip\obj\Debug\Homework2_Coinflip.Properties.Resources.resources
+C:\Users\alnic\source\repos\Homework2_Coinflip\obj\Debug\Homework2_Coinflip.csproj.GenerateResource.cache
+C:\Users\alnic\source\repos\Homework2_Coinflip\obj\Debug\Homework2_Coinflip.csproj.CoreCompileInputs.cache
+C:\Users\alnic\source\repos\Homework2_Coinflip\obj\Debug\Homework2_Coinflip.exe
+C:\Users\alnic\source\repos\Homework2_Coinflip\obj\Debug\Homework2_Coinflip.pdb
